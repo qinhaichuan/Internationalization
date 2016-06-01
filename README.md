@@ -1,0 +1,2 @@
+# Internationalization
+ App language internationalization
