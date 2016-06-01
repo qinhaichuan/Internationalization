@@ -1,0 +1,10 @@
+
+/* Class = "UIButton"; normalTitle = "Do you like coding?"; ObjectID = "JgY-dS-U32"; */
+"JgY-dS-U32.normalTitle" = "Do you like coding?";
+
+/* Class = "UILabel"; text = "I write 1000000000 lines every day."; ObjectID = "fXS-us-aqg"; */
+"fXS-us-aqg.text" = "I write 1000000000 lines every day.";
+
+/* Class = "UILabel"; text = "Hello I am a Lable"; ObjectID = "zki-n6-dit"; */
+//"zki-n6-dit.text" = "Hello I am a Lable";
+"zki-n6-dit.text" = "您好，我是一个Label";

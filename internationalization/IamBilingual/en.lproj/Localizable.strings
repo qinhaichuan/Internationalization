@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  IamBilingual
+
+  Created by QHC on 5/26/16.
+  Copyright © 2016 itemei. All rights reserved.
+*/
+"I write %@ lines every day." = "I write %@ lines every day.";
+"Do you like coding ?" = "Do you like coding ?";
+"imageName" = "english";
